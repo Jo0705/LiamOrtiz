@@ -475,6 +475,7 @@ strong {
   HERO        
 -----------------------------------------*/
 .hero-section {
+  background-image: url('../images/artists/prueba\ 1.webp ');
   position: relative;
   overflow: hidden;
   padding-top: 100px;
